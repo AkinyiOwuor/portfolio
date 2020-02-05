@@ -22,10 +22,10 @@ h2{
     font-size: 50px;
     font-weight: bold;
 }
-#about img{
-    float: left;
-    padding: 50px;
-}
+#about h2 img{
+    padding-right: 20px;
+    margin-right: 10px;
+} 
 p{
     font-size: larger;
 }
