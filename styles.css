@@ -1,0 +1,38 @@
+h1{
+    color:palevioletred;
+    background-color:silver;
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+
+}
+#nav a{
+    font-size:30px;
+    font-weight: bolder;
+    text-align: right;
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 20px;
+    padding-top:10px;
+    text-decoration:none;
+}
+h2{
+    text-align: center;
+    color:palevioletred;
+    font-size: 50px;
+    font-weight: bold;
+}
+#about img{
+    float: left;
+    padding: 50px;
+}
+p{
+    font-size: larger;
+}
+li{
+    font-size: larger;
+}
+h3{
+    font-size: 30px;
+    color:palevioletred
+}
