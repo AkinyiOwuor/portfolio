@@ -17,6 +17,7 @@ h1{
     text-decoration:none;
     text-transform: uppercase;
     text-shadow: palevioletred;
+    color: palevioletred;
 }
 h2{
     text-align: center;
@@ -55,4 +56,7 @@ h3 img{
 }
 h4{
     font-size: larger;
+}
+body{
+    background-color:powderblue;
 }
