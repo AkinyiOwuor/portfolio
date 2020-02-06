@@ -42,6 +42,7 @@ h3{
 h1 img{
     padding-right: 50px;
     margin-right: 2px; 
+    border:3px solid palevioletred
 }
 h3 img{
     float: center;
