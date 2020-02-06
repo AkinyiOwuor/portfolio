@@ -15,6 +15,8 @@ h1{
     margin-left: 20px;
     padding-top:10px;
     text-decoration:none;
+    text-transform: uppercase;
+    text-shadow: palevioletred;
 }
 h2{
     text-align: center;
@@ -45,5 +47,6 @@ h1 img{
     border:3px solid palevioletred
 }
 h3 img{
-    float: center;
+    border: palevioletred;
+    margin-right: 10px;
 }
