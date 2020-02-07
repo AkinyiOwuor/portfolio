@@ -25,6 +25,7 @@ h2{
     color:palevioletred;
     font-size: 50px;
     font-weight: bold;
+    text-decoration: underline;
 }
 #about h2 img{
     padding-right: 20px;
@@ -36,9 +37,9 @@ h2{
     font-size: x-large;
     text-align: center;
 }
-li{
+/* li{
     font-size:x-large;
-}
+} */
 h3{
     font-size: 30px;
     color:palevioletred;
@@ -54,23 +55,23 @@ h3 img{
     border: palevioletred;
     margin-right: 10px;
     border-radius: 9px;
-}
-/* #projects img{
+/* }#projects img{
     display: block;
     margin-left: auto;
-    margin-right: auto; */
-}
-h4{
-    font-size: larger;
-}
+    margin-right: auto;
+} */
+/* h4{
+    font-size: 70px;
+    text-a
+} */
 body{
-    background-color:powderblue;
+    background-color:rgb(240, 59, 14);
 }
 #contacts{
     text-align: center;
     font-size: x-large;
 }
-span.first{
+/* span.first{
     color:palevioletred;
 }
 span.second{
@@ -80,11 +81,32 @@ span.first:hover{
     color: blueviolet;
 }
 span.second:hover{
-    color: blueviolet;
+    color: blueviolet; */
 }
 .footer{
     text-align: center;
     background-color: palevioletred;
     font-size: x-large;
     border-radius: 10px;
+}
+#findme{
+    text-align: center;
+    font-size: x-large;
+}
+*{
+    background-color: powderblue;
+}
+h4{
+    font-size: x-large;
+    text-align: center;
+}
+li{
+    font-size: x-large;
+
+}
+p{
+    font-size: x-large;
+}
+button{
+    background-color: palevioletred;
 }
