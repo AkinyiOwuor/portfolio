@@ -4,6 +4,7 @@ h1{
     text-align: center;
     font-size:50px;
     font-weight: bold;
+    border-radius: 20px;
 
 }
 #nav a{
@@ -29,13 +30,14 @@ h2{
     padding-right: 20px;
     margin-right: 10px;
     border-color: aqua;
+    border-radius: 10px;
 } 
 #about p{
-    font-size: larger;
+    font-size: x-large;
     text-align: center;
 }
 li{
-    font-size: larger;
+    font-size:x-large;
 }
 h3{
     font-size: 30px;
@@ -45,14 +47,18 @@ h3{
 h1 img{
     padding-right: 50px;
     margin-right: 2px; 
-    border:3px solid palevioletred
+    border:3px solid palevioletred;
+    border-radius: 9px;
 }
 h3 img{
     border: palevioletred;
     margin-right: 10px;
+    border-radius: 9px;
 }
-#projects img{
-    float: inline-start;
+/* #projects img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; */
 }
 h4{
     font-size: larger;
@@ -62,7 +68,7 @@ body{
 }
 #contacts{
     text-align: center;
-    font-size: larger;
+    font-size: x-large;
 }
 span.first{
     color:palevioletred;
@@ -75,4 +81,10 @@ span.first:hover{
 }
 span.second:hover{
     color: blueviolet;
+}
+.footer{
+    text-align: center;
+    background-color: palevioletred;
+    font-size: x-large;
+    border-radius: 10px;
 }
