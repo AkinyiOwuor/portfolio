@@ -64,3 +64,15 @@ body{
     text-align: center;
     font-size: larger;
 }
+span.first{
+    color:palevioletred;
+}
+span.second{
+    color: palevioletred;
+}
+span.first:hover{
+    color: blueviolet;
+}
+span.second:hover{
+    color: blueviolet;
+}
