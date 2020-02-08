@@ -4,11 +4,12 @@
 #### Author:RACHEL AKINYI OWUOR
 ## Live Link
 *https://akinyiowuor.github.io/portfolio/*
-## Technologies Used:I used HTML for the page layout and CSS to style my page.
+## Technologies Used
+I used HTML for the page layout and CSS to style my page.
 ## Support and contact details
-*If you have any issues, or have questions, ideas or concerns you can contact me via email-address-owuorrachel@gmail.com   Feel free to make a contribution to the code at any time.
+If you have any issues, or have questions, ideas or concerns you can contact me via email-address-owuorrachel@gmail.com   Feel free to make a contribution to the code at any time.
 ### License
-*This website and its content is copyright of Rachel Akinyi Owuor - © portfolio 2020. All rights reserved.
+This website and its content is copyright of Rachel Akinyi Owuor - © portfolio 2020. All rights reserved.
 Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:
 you may merge,copy or modify for your personal and non-commercial use only
 you may copy the content to individual third parties for their personal use, but only if you acknowledge the website as the source of the material
